@@ -1,5 +1,5 @@
 # Yandapalli-Chinni
-[![Master Head](https://i.pinimg.com/originals/b9/7d/c2/b97dc288d71e7938c1ce8b7faacdc9ac.gif)](https://yandapallichinni.io)
+[![Master Head](https://as1.ftcdn.net/v2/jpg/01/94/01/00/1000_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg)](https://yandapallichinni.io)
 <h1 align="center">Hi 👋, I'm Chinni Yandapalli</h1>
 <h3 align="center">A passionate frontend developer and data analyst</h3>
 <image align="right" alt="Coding" width="300" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
