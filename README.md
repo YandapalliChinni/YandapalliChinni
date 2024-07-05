@@ -142,3 +142,10 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yandapallichinni&background=000000&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8A2BE2&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak Stats" />
 </p>
+
+<!-- Most Used Languages -->
+## Most Used Languages
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yandapallichinni&layout=compact&langs_count=6&bg_color=000000&text_color=ffffff&title_color=8A2BE2" alt="Top Languages" />
+</p>
