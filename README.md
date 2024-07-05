@@ -96,6 +96,12 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yandapallichinni&show_icons=true&locale=en" alt="yandapallichinni" /></p>
+<!-- GitHub Stats -->
+<p align="left" style="background-color: black; padding: 10px; color: white;">
+  <img src="https://github-readme-stats.vercel.app/api?username=yandapallichinni&show_icons=true&locale=en&bg_color=000000&text_color=ffffff&title_color=8A2BE2&icon_color=8A2BE2" alt="yandapallichinni" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yandapallichinni&" alt="yandapallichinni" /></p>
+<!-- GitHub Streak Stats -->
+<p align="left" style="background-color: black; padding: 10px; color: white;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yandapallichinni&background=000000&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8A2BE2&sideLabels=ffffff&dates=ffffff" alt="yandapallichinni" />
+</p>
